@@ -1,3 +1,3 @@
-module HGJ {
+module chap01 {
 	requires java.se;
 }
