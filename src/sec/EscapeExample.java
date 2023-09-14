@@ -1,4 +1,4 @@
-package sec02.exam06;
+package sec;
 
 public class EscapeExample {
 

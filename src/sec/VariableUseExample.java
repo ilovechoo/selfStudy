@@ -1,4 +1,4 @@
-package sec01.exam02;
+package sec;
 
 public class VariableUseExample {
 

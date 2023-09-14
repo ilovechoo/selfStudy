@@ -1,4 +1,4 @@
-package sec01.exam01;
+package sec;
 
 public class VariableInitializationExample {
 

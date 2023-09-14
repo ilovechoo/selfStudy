@@ -1,4 +1,4 @@
-package sec01.exam04;
+package sec;
 
 public class VariableScopeExample {
 

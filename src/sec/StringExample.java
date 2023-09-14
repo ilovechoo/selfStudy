@@ -1,4 +1,4 @@
-package sec02.exam05;
+package sec;
 
 public class StringExample {
 

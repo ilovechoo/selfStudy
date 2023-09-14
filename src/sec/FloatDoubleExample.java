@@ -1,4 +1,4 @@
-package sec02.exam07;
+package sec;
 
 public class FloatDoubleExample {
 
