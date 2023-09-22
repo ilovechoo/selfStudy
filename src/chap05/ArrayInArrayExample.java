@@ -13,7 +13,7 @@ public class ArrayInArrayExample {
 									
 			}
 		}
-		System.out.println();
+		System.out.println(mathScores[0].length);
 		
 		
 		int[][] englishScores = new int[2][];
